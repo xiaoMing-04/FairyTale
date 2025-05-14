@@ -1,3 +1,13 @@
 .ipynb_checkpoints
 Untitled.ipynb
 .DS_Store
+balanced_dataset
+toolkits
+version
+X_test.csv.gz
+X_train.csv.gz
+xgboost_model.pkl
+xgboost.json
+y_test.csv.gz
+y_train.csv.gz
+final_modeling.ipynb
